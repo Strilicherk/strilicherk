@@ -15,32 +15,13 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-
-
-
-
-
-
 </div>
 
   ## 
   ### Contato:
 <div> 
   <a href="https://www.linkedin.com/in/matheus-strilicherk-370a50159/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:strilicherkcontato@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
-
-
-
-
-
-
-  
-  ##
-
- 
-  ![Snake animation](https://github.com/strilicherk/strilicherk/blob/output/github-contribution-grid-snake.svg)
- 
+  <a href = "mailto:strilicherkcontato@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
 
 - 💼 Procurando por um emprego tanto na área de Front-End quanto de Back-End.
