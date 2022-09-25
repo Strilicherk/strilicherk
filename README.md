@@ -1,4 +1,4 @@
-### Seja muito bem-vindo ao meu perfil! Eu me chamo Matheus Strilicherk 😄 
+### Seja muito bem-vindo ao meu perfil!
   ##
 <div>
   <a href="https://github.com/strilicherk">
